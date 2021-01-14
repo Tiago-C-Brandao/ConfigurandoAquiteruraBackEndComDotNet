@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "SCb7h7u3qBfdnu3Lza4XIhUiqyCEol4UeXfmvMq8c8WwuLrzbM/aYEnMbSl/PcNsB/nU9xWzY5Ioegew+pfQig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tiago Curvelo\\OneDrive\\Documentos\\Bootcamp\\Decola Dev Avanade 2021\\Configuração da arquitetura back-end com .NET Core\\curso\\curso.api\\curso.api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tiago Curvelo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Tiago Curvelo\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Tiago Curvelo\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Tiago Curvelo\\.nuget\\packages\\swashbuckle.aspnetcore.annotations\\5.6.3\\swashbuckle.aspnetcore.annotations.5.6.3.nupkg.sha512",
+    "C:\\Users\\Tiago Curvelo\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Tiago Curvelo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Tiago Curvelo\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
